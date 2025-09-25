@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  border: 1px solid black;
+  /* width: 100%; */
+  /* width: 250px; */
+  margin-left: 1000px;
+  /* margin-left: -10px; */
+  /* margin-top: 500px; */
+  /* margin-top: -10px; */
+  /* margin:100px  ; */
+  /* padding: 14px; */
+  /* padding: 10px;
+  padding-bottom: 30px; */
+}
+
+/* 1260px 1150px */
+.icon {
+  font-size: 13px;
+  color: aqua;
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  /* padding-right: 2px; */
+  border-radius: 100px;
+}
